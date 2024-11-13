@@ -1,4 +1,4 @@
-# Identifiability and predictability of <br/> integer- and fractional-order epidemiological models <br/> using physics-informed neural networks
+# Identifiability and predictability of  integer- and fractional-order epidemiological models <br/> using physics-informed neural networks
 
 We analyze a plurality of epidemiological models through the lens of physics-informed neural networks (PINNs) that enable us to identify multiple time-dependent parameters and to discover new data-driven fractional differential operators. In particular, we consider several variations of the classical susceptible-infectious-removed (SIR) model by introducing more compartments and delay in the dynamics described by integer-order, fractional-order, and time-delay models.
 
