@@ -1,4 +1,4 @@
-# Using a multi-strain infectious disease model with physical information neural networks to study the time dependence  <br/> of SARS-CoV-2 variants of concern
+# Using a multi-strain infectious disease model with physical information neural networks to study the time dependence  of SARS-CoV-2 variants of concern
 ## VOCs-INN Code
 ### Python Dependencies
 We use the Python 3.7.4 and `VOCs-INN` mainly depends on the following Python packages.
